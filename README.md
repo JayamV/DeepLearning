@@ -1,1 +1,1 @@
-This Repository is my learning Deep Learning progress
+This Repository is my Deep Learning progress
